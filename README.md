@@ -14,17 +14,17 @@
 
 4. These are qualitative analysis
 
-![903_9](docs\903_9.jpg)
+![903_9](docs/903_9.jpg)
 
-![903_9_result](docs\903_9_result.jpg)
+![903_9_result](docs/903_9_result.jpg)
 
-![940_9](d ocs\940_9.jpg)
+![940_9](docs/940_9.jpg)
 
-![940_9_result](docs\940_9_result.jpg)
+![940_9_result](docs/940_9_result.jpg)
 
-![b4_00041](docs\b4_00041.jpg)
+![b4_00041](docs/b4_00041.jpg)
 
-![b4_00041_result](docs\b4_00041_result.jpg)
+![b4_00041_result](docs/b4_00041_result.jpg)
 
 ## Environmental requirements
 
